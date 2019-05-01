@@ -1,0 +1,10 @@
+C:\Users\Smiley\source\repos\CRUDProduto\CRUDProduto\bin\Debug\CRUDProduto.exe.config
+C:\Users\Smiley\source\repos\CRUDProduto\CRUDProduto\bin\Debug\CRUDProduto.exe
+C:\Users\Smiley\source\repos\CRUDProduto\CRUDProduto\bin\Debug\CRUDProduto.pdb
+C:\Users\Smiley\source\repos\CRUDProduto\CRUDProduto\obj\Debug\CRUDProduto.csprojAssemblyReference.cache
+C:\Users\Smiley\source\repos\CRUDProduto\CRUDProduto\obj\Debug\CRUDProduto.Form1.resources
+C:\Users\Smiley\source\repos\CRUDProduto\CRUDProduto\obj\Debug\CRUDProduto.Properties.Resources.resources
+C:\Users\Smiley\source\repos\CRUDProduto\CRUDProduto\obj\Debug\CRUDProduto.csproj.GenerateResource.cache
+C:\Users\Smiley\source\repos\CRUDProduto\CRUDProduto\obj\Debug\CRUDProduto.csproj.CoreCompileInputs.cache
+C:\Users\Smiley\source\repos\CRUDProduto\CRUDProduto\obj\Debug\CRUDProduto.exe
+C:\Users\Smiley\source\repos\CRUDProduto\CRUDProduto\obj\Debug\CRUDProduto.pdb
