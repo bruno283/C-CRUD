@@ -8,3 +8,10 @@ C:\Users\Smiley\source\repos\CRUDProduto\CRUDProduto\obj\Debug\CRUDProduto.cspro
 C:\Users\Smiley\source\repos\CRUDProduto\CRUDProduto\obj\Debug\CRUDProduto.csproj.CoreCompileInputs.cache
 C:\Users\Smiley\source\repos\CRUDProduto\CRUDProduto\obj\Debug\CRUDProduto.exe
 C:\Users\Smiley\source\repos\CRUDProduto\CRUDProduto\obj\Debug\CRUDProduto.pdb
+C:\Git\C# CRUD\C-CRUD\CRUDProduto\CRUDProduto\obj\Debug\CRUDProduto.csprojAssemblyReference.cache
+C:\Git\C# CRUD\C-CRUD\CRUDProduto\CRUDProduto\obj\Debug\CRUDProduto.Form1.resources
+C:\Git\C# CRUD\C-CRUD\CRUDProduto\CRUDProduto\obj\Debug\CRUDProduto.Properties.Resources.resources
+C:\Git\C# CRUD\C-CRUD\CRUDProduto\CRUDProduto\obj\Debug\CRUDProduto.csproj.GenerateResource.cache
+C:\Git\C# CRUD\C-CRUD\CRUDProduto\CRUDProduto\obj\Debug\CRUDProduto.csproj.CoreCompileInputs.cache
+C:\Git\C# CRUD\C-CRUD\CRUDProduto\CRUDProduto\obj\Debug\CRUDProduto.exe
+C:\Git\C# CRUD\C-CRUD\CRUDProduto\CRUDProduto\obj\Debug\CRUDProduto.pdb
